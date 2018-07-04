@@ -1,0 +1,15 @@
+#2017-04-07				
+#Name	offset(km.s-1)	mode	
+AlII1670	-300	fixed
+FeII1608	-300	fixed
+CIV1550A	-300	fixed
+CIV1548A	-300	fixed
+SiII1526	-300	fixed
+SiIV1402	-300	fixed
+SiIV1393	-300	fixed
+CII	-300	fixed
+OI1302	-300	fixed
+SiII1260	-300	fixed
+SiIII1206	-300	fixed
+SiII1193	-300	fixed
+SiII1190	-300	fixed
