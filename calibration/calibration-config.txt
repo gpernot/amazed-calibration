@@ -1,2 +1,3 @@
 #define the relative paths for some calibration files
-star-templates-dir=templates/stars_templates_munari-lowt_20170105
+star-templates-dir=templates/stars_templates_vlba37_2018
+qso-templates-dir=templates/qso_sdss_meanqso_comp4
